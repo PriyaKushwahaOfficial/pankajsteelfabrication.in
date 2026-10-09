@@ -2,8 +2,8 @@ import os
 from PIL import Image, ImageOps
 
 # Paths
-source_folder = r"C:\Users\Pankaj Kumar\OneDrive\Desktop\Web Img\source"
-build_folder = r"C:\Users\Pankaj Kumar\OneDrive\Desktop\Web Img\build"
+source_folder = r"C:\Users\Pankaj Kumar\OneDrive\Desktop\Web Images\SS Gate\source"
+build_folder = r"C:\Users\Pankaj Kumar\OneDrive\Desktop\Web Images\SS Gate\build"
 
 # Target max dimensions (aspect ratio preserved)
 variants = {
